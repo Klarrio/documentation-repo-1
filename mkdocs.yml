@@ -1,10 +1,10 @@
-site_name: Platform Documentation
+site_name: Repo1 Documentation
 
 nav:
-    - Home: 'index.md'
-      - Donec at eleifend justo: 'dummy1.md'
-      - Lorem ipsum dolor sit amet: 'dummy2.md'
-      - Nunc quis tempor nulla: 'dummy3.md'
+
+    - Donec at eleifend justo: 'dummy1.md'
+    - Lorem ipsum dolor sit amet: 'dummy2.md'
+    - Nunc quis tempor nulla: 'dummy3.md'
 
 theme: 
   name: material
